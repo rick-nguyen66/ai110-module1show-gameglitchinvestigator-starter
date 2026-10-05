@@ -39,8 +39,8 @@ Describe your fixed game in numbered steps so a reader can follow along without 
 4. User repeats attempt with different number until either no more attempts or a win is made; either case gives a score.
 5. User must press "New Game" since game state ended; repeat from step 1 with new random number.
 
-**Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
-
+**Screenshot** *(optional)*:
+![Screenshot of winning game](image.png)
 ## 🧪 Test Results
 
 ```
